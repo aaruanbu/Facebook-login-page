@@ -1,0 +1,29 @@
+	*{
+		margin:0;
+		padding:0;
+		box-sizing:border-box;
+		font-family: Jost,Helvetica,Arial,sans-serif;
+	}
+	.body-back{
+		background-color:#f0f2f5;
+	}
+	#sec-1{
+		margin-top:50px;
+	}
+	input{
+		border:1px solid gray;
+	}
+	input:focus{
+		outline-color:blue;
+	}
+	.forgot:hover{
+		text-decoration:underline;
+		color:blue;
+	}
+	.bg-suc{
+	background-color:#42b72a;!important;
+	}
+	.pove:hover{
+		text-decoration:underline!important;
+		color:black;
+	}
